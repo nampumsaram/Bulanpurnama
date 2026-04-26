@@ -1,0 +1,5 @@
+feedparser
+requests
+schedule
+llama-cpp-python
+flask
